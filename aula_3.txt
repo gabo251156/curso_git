@@ -1,0 +1,94 @@
+    1  ls
+    2  ls -a
+    3  ls ..
+    4  pwd
+    5  cd ..
+    6  cd desktop/
+    7  cd ~
+    8  cd Desktop/
+    9  cd D
+   10  mkdir
+   11  ls
+   12  cd ~
+   13  cd Desktop/
+   14  clear
+   15  git config --global user.name 'Gabriel vera'
+   16  git config --global user.email 'gabvera0636@gmail.com'
+   17  git config user.name
+   18  cd Desktop/
+   19  cd ~
+   20  ls
+   21  cd Desktop
+   22  ls ~
+   23  cd "~/Área de Trabalho"
+   24  cd "~/Área de Trabalho"
+   25  echo $USERNAME
+   26  ls /c/Users/
+   27  ls /c/Users/Gabriel vera/Desktop
+   28  cd "$HOME/Desktop"
+   29  cd "$HOME/Área de Trabalho"
+   30  echo $HOME
+   31  ls "$HOME"
+   32  ls "$HOME/OneDrive"
+   33  explorer.exe "$HOME"
+   34  explorer.exe "$HOME"
+   35  nano ~/.bashrc
+   36  source ~/.bashrc
+   37  cd Desktop/
+   38  desktop
+   39  ls "/c/Users/Gabriel Vera/OneDrive"
+   40  cd "/c/Users/Gabriel Vera/OneDrive/Desktop.ini"
+   41  cd "/c/Users/Gabriel Vera/OneDrive/desktop.ini"
+   42  cd "/c/Users/Gabriel Vera/OneDrive/Área de Trabalho"
+   43  cd Desktop/
+   44  ~/.bashrc
+   45  ls "/c/Users/Gabriel Vera/OneDrive"
+   46  nano ~/.bashrc
+   47  source ~/.bashrc
+   48  cd desktop/
+   49  cd desktop/
+   50  desktop
+   51  desktop/
+   52  cd
+   53  cd "$HOME/OneDrive/Escritorio"
+   54  desktop
+   55  clear
+   56  ls
+   57  mkdir curso_git
+   58  cd curso_git/
+   59  git config user.name
+   60  git init
+   61  git status
+   62  echo '#aprendendo usar o git' > readme.md
+   63  git status
+   64  git add readme.md
+   65  git status
+   66  git commit -m 'commit inicial'
+   67  git status
+   68  echo '##aula 1' >> readme.md
+   69  git status
+   70  echo 'gabriel vera' > participantes.txt
+   71  git status
+   72  git add .
+   73  git status
+   74  git restore --staged participantes.txt
+   75  git status
+   76  git add participantes. txt
+   77  git status
+   78  git add participantes. txt
+   79  git status
+   80  add participantes.txt
+   81  git status
+   82  git participantes.txt
+   83  git status
+   84  git status
+   85  git add participantes.txt
+   86  git status
+   87  git restore --staged .
+   88  git status
+   89  git commit -am 'alteraçao no readme'
+   90  git status
+   91  git add participantes.txt
+   92  git status
+   93  git commit -m 'adicionado participantes.txt'
+   94  history > aula_3.txt
