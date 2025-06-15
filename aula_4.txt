@@ -1,0 +1,185 @@
+    1  ls
+    2  ls -a
+    3  ls ..
+    4  pwd
+    5  cd ..
+    6  cd desktop/
+    7  cd ~
+    8  cd Desktop/
+    9  cd D
+   10  mkdir
+   11  ls
+   12  cd ~
+   13  cd Desktop/
+   14  clear
+   15  git config --global user.name 'Gabriel vera'
+   16  git config --global user.email 'gabvera0636@gmail.com'
+   17  git config user.name
+   18  cd Desktop/
+   19  cd ~
+   20  ls
+   21  cd Desktop
+   22  ls ~
+   23  cd "~/Área de Trabalho"
+   24  cd "~/Área de Trabalho"
+   25  echo $USERNAME
+   26  ls /c/Users/
+   27  ls /c/Users/Gabriel vera/Desktop
+   28  cd "$HOME/Desktop"
+   29  cd "$HOME/Área de Trabalho"
+   30  echo $HOME
+   31  ls "$HOME"
+   32  ls "$HOME/OneDrive"
+   33  explorer.exe "$HOME"
+   34  explorer.exe "$HOME"
+   35  nano ~/.bashrc
+   36  source ~/.bashrc
+   37  cd Desktop/
+   38  desktop
+   39  ls "/c/Users/Gabriel Vera/OneDrive"
+   40  cd "/c/Users/Gabriel Vera/OneDrive/Desktop.ini"
+   41  cd "/c/Users/Gabriel Vera/OneDrive/desktop.ini"
+   42  cd "/c/Users/Gabriel Vera/OneDrive/Área de Trabalho"
+   43  cd Desktop/
+   44  ~/.bashrc
+   45  ls "/c/Users/Gabriel Vera/OneDrive"
+   46  nano ~/.bashrc
+   47  source ~/.bashrc
+   48  cd desktop/
+   49  cd desktop/
+   50  desktop
+   51  desktop/
+   52  cd
+   53  cd "$HOME/OneDrive/Escritorio"
+   54  desktop
+   55  clear
+   56  ls
+   57  mkdir curso_git
+   58  cd curso_git/
+   59  git config user.name
+   60  git init
+   61  git status
+   62  echo '#aprendendo usar o git' > readme.md
+   63  git status
+   64  git add readme.md
+   65  git status
+   66  git commit -m 'commit inicial'
+   67  git status
+   68  echo '##aula 1' >> readme.md
+   69  git status
+   70  echo 'gabriel vera' > participantes.txt
+   71  git status
+   72  git add .
+   73  git status
+   74  git restore --staged participantes.txt
+   75  git status
+   76  git add participantes. txt
+   77  git status
+   78  git add participantes. txt
+   79  git status
+   80  add participantes.txt
+   81  git status
+   82  git participantes.txt
+   83  git status
+   84  git status
+   85  git add participantes.txt
+   86  git status
+   87  git restore --staged .
+   88  git status
+   89  git commit -am 'alteraçao no readme'
+   90  git status
+   91  git add participantes.txt
+   92  git status
+   93  git commit -m 'adicionado participantes.txt'
+   94  history > aula_3.txt
+   95  git add.
+   96  git add .
+   97  git commit -m 'comandos da aula 3'
+   98  ls
+   99  ds
+  100  ds escritorio
+  101  cd escritorio
+  102  cd 'ESCRITORIO'
+  103  cd 'escritorio'
+  104  ls
+  105  C:\Users\Gabriel Vera\OneDrive\Escritorio
+  106  cd C:\Users\Gabriel Vera\OneDrive\Escritorio
+  107  desktop
+  108  desktop/
+  109  cd desktop/
+  110  cd "/c/Users/Gabriel Vera/OneDrive/Escritorio"
+  111  ls
+  112  pwd
+  113  cd ~
+  114  nano ~/.bashrc
+  115  nano ~/.bashrc
+  116  source ~/.bashrc
+  117  desk
+  118  desk
+  119  ls
+  120  cd curso_git/
+  121  ls
+  122  ls
+  123  cd~
+  124  pwd
+  125  desk
+  126  ls
+  127  cd curso_git/
+  128  git log
+  129  desk
+  130  ls
+  131  cd curso_git/
+  132  git log
+  133  desk
+  134  ls
+  135  cd curso_git/
+  136  git log --pretty=oneline
+  137  git log --stat
+  138  git log -p
+  139  git log --pretty=oneline -2
+  140  git log --since=2.minutes
+  141   git log --since=20.minutes
+  142  git log --since=2.weekes
+  143  git status
+  144  touch teste
+  145  git add teste
+  146  git status
+  147  git commit -m 'commit de teste'
+  148  git loge
+  149  git reset --soft HEAD~
+  150  git log
+  151  git status
+  152  git commit -m 'commit de teste'
+  153  git log
+  154  git reset --hard HEAD~
+  155  git status
+  156  git log --pretty=oneline
+  157  git checkout HEAD~~
+  158  git status
+  159  git log
+  160  ls
+  161  git checkout master
+  162  git loge
+  163  clear
+  164  mkdir .vscode
+  165  touch conf.txt .vscode/
+  166  ls .vscode/
+  167  ls
+  168  mv conf.txt .vscode/
+  169  ls .vscode/
+  170  ls
+  171  ls -a
+  172  git status
+  173  echo 1.vscode/1 > .gitignore
+  174  echo '.vscode/' > .gitignore
+  175  git status
+  176  touch pessoal.conf
+  177  git status
+  178  echo 'pessoal.cof' >> .gitignore
+  179  git status
+  180  echo 'pessoal.conf' >> .gitignore
+  181  git status
+  182  git add .gitignore
+  183  git commit -m 'adicionado arquivo .gitignore'
+  184  git status
+  185  history > aula_4.txt
